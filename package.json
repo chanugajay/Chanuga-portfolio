@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://chanugajay.github.io/Chanuga-portfolio",
+  "homepage": "https://chanugajay.github.io/Chanuga-portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
