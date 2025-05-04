@@ -7,7 +7,7 @@ import { componentTagger } from "lovable-tagger";
 const repoName = "Chanuga-portfolio"; // <-- e.g. "chanuga-portfolio"
 
 export default defineConfig(({ mode }) => ({
-  base: `/${repoName}/`, // 👈 required for GitHub Pages
+  base: `/Chanuga-portfolio/`, // 👈 required for GitHub Pages
   server: {
     host: "::",
     port: 8080,
